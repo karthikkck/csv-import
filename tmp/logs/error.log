@@ -1,0 +1,4 @@
+2012-03-30 17:25:54 Warning: Warning (2): fopen(/var/www/cakephp/tmp/uploads/Post/posts.csv) [http://php.net/function.fopen]: failed to open stream: No such file or directory in [/var/www/cakephp/models/post.php, line 14]
+2012-03-30 17:25:54 Warning: Warning (2): fgetcsv() expects parameter 1 to be resource, boolean given in [/var/www/cakephp/models/post.php, line 17]
+2012-03-30 17:25:54 Warning: Warning (2): fgetcsv() expects parameter 1 to be resource, boolean given in [/var/www/cakephp/models/post.php, line 26]
+2012-03-30 17:25:54 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/cakephp/models/post.php, line 31]
